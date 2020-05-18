@@ -1,0 +1,20 @@
+{
+  "name": "crypto",
+  "description": "",
+  "main": "",
+  "authors": [
+    "HeLiang <hl449006540@126.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
