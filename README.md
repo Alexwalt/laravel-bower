@@ -10,8 +10,6 @@ npm install -g bower
 ## 安装PHP依赖库
 ````bash
 composer install
-cp .env.example .env
-php artisan key:generate
 ````
 
 ## 初始化Laravel项目
